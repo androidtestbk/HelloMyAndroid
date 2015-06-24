@@ -8,10 +8,12 @@ public class pen {
     private int price;
 
     public pen() {
+        price = 0;
     }
 
     public pen(String name, int price) {
         this.name = name;
+        this.price = 0;
         this.price = price;
     }
 
