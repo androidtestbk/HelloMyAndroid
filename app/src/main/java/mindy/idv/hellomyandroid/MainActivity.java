@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+//蠟筆小新敲好看的唷~~~
 
 public class MainActivity extends ActionBarActivity {
 
